@@ -1,2 +1,2 @@
 # coding-projects
-Shamone
+Personal Coding Projects
